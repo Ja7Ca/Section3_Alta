@@ -1,7 +1,7 @@
-<h1 align= "center"><b>Resume Section</b></h1>
+<h1 align= "center"><b>Resume Section 5</b></h1>
 
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Penulisan HTML</li>
+    <li>Perbedaan Tag ul dengan ol</li>
+    <li>Mempelajari Form Action</li>
 </ul>
