@@ -1,7 +1,7 @@
-<h1 align= "center"><b>Resume Section</b></h1>
+<h1 align= "center"><b>Resume Section 6</b></h1>
 
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Mempelajari penambahan style dengan 3 metode</li>
+    <li>Penggunaan display pada responsive</li>
+    <li>@media untuk mengatur style pada kondisi witdth tertentu</li>
 </ul>
