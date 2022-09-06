@@ -1,8 +1,8 @@
-var a = 5;
+let a = 5;
 let b = "Kampus Merdeka";
 const nama = "Budi";
 let terdaftar = false;
-let lengkap_arr = [a, b, nama, terdaftar];
+let lengkapArr = [a, b, nama, terdaftar];
 
 function perkenalan(){
     let asal = "indonesia";
@@ -27,7 +27,7 @@ a = b;
 // nama = b;
 
 // 1.a index ke-2 baris ke 5
-console.log(`array = ${lengkap_arr[2]}`)
+console.log(`array = ${lengkapArr[2]}`)
 
 // Comment syntax yang mengahsilkan error
 // console.log("asal diakses = " + asal);
