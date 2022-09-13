@@ -1,13 +1,12 @@
 class Kendaraan {
     constructor(){
-        this.kecepatanPerJam
+        this.kecepatanPerJam = 0
     }
 }
 
 class Mobil extends Kendaraan {
     constructor(){
         super()
-        this.kecepatanPerJam = 0
     }
 
     tambahKecepatan(kecepatanBaru){
