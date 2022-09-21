@@ -1,0 +1,62 @@
+navbar{
+    width: 5%;
+    padding: 2em;
+    transition:0.5s;
+    height: 100%;
+}
+
+navbar.active {
+    background-color: rgb(14, 155, 115);
+    width: 10em;
+}
+
+navbar.active .nav-menu{
+    display: block
+}
+
+.hamburger{
+    cursor:pointer;
+    width: 2em;
+    padding: 1px 0;
+    position: relative;
+}
+
+.hamburger.active .line {
+    background-color: white;
+}
+
+.hamburger.active .line:nth-child(2){
+    opacity: 0
+}
+
+.hamburger.active .line:nth-child(1){
+    transform: rotate(45deg);
+    top: 6px;
+}
+.hamburger.active .line:nth-child(3){
+    transform: rotate(-45deg);
+    top: -6px;
+}
+
+.line{
+    transition: 0.5s;
+    width: 100%;
+    height: 3px;
+    border-radius: 1em;
+    background-color: gray;
+    margin: 3px 0;
+    position: relative;
+    top: 0;
+}
+
+.nav-menu{
+    display: none
+}
+
+.nav-link{
+    display: block;
+    margin: 2em 0;
+    font-weight: 700;
+    text-decoration: none;
+    color: white
+}

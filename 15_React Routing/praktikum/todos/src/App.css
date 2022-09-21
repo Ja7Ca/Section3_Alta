@@ -1,0 +1,8 @@
+body{
+  overflow-y: hidden;
+}
+
+#root{
+  display: flex;
+  height: 100vh;
+}
