@@ -1,0 +1,32 @@
+.todo-list{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.todo-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid gray
+}
+
+.todo-inner{
+    display: flex;
+    cursor: pointer;
+}
+
+.todo-title{
+    text-align: center;
+    margin-left: 0.5em;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.todo-button{
+    padding: 1.2em 0.2em;
+    border-radius: 100%;
+    font-weight: 700;
+    border: 0;
+}
