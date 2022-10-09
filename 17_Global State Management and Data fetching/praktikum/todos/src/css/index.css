@@ -1,0 +1,14 @@
+.container{
+    width:80%;
+    margin: auto;
+    text-align: center;
+}
+
+.main-title{
+    margin-top: 0;
+    background: linear-gradient(to right, #369A90, #005571);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent !important;
+    font-size: 128px !important;
+    font-weight: 600;
+}
