@@ -1,1 +1,5 @@
 "11_Introduction React/praktikum/test/node_modules"
+"12_React Fundamental/praktikum/todo/node_modules"
+"13_Event Handling/praktikum/todos/node_modules"
+# Local Netlify folder
+.netlify

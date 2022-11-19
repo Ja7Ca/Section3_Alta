@@ -1,7 +1,7 @@
-<h1 align= "center"><b>Resume Section</b></h1>
+<h1 align= "center"><b>Resume Section 22</b></h1>
 
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Graphql -> bahasa query untuk API, dan runtime sisi server untuk mengeksekusi query dengan menggunakan sistem tipe yang ditetapkan untuk data. GraphQL meminimalkan jumlah data yang perlu ditransfer melalui jaringan. Dengan graphQL kita dapat menggunakan satu titik akhir tunggal (/graphQL) untuk setiap permintaan yang diperlukan.</li>
+    <li>Mutation -> fungsi untuk memperbarui, menyisipkan dan menghapus data. Kita perlu mendefinisikan operasi apa yang ingin kita lakukan (berdasarkan operasi yang tersedia di server graphql) dan kemudian menentukan data apa yang GraphQL perlu kembalikan.</li>
+    <li>Subscription -> fitur GraphQL yang memungkinkan server mengirim data ke kliennya saat event tertentu terjadi. Subscription biasanya diimplementasikan dengan WebSockets. Dalam pengaturan itu, server mempertahankan koneksi yang stabil ke klien subscriptionnya. Ketika data diubah maka klien akan mendapatkan data yang diperbarui secara langsung secara real-time. Pada contoh di bawah ini, jika kita melakukan subscription pada pengumpulan orang maka setiap kali orang baru ditambahkan atau ketika data dihapus atau diubah maka kita akan mendapatkan data yang diperbarui secara real-time langsung ke klien kita. Subscription hanya akan terjadi di sisi klien bukan sisi server.</li>
 </ul>
