@@ -1,0 +1,16 @@
+{
+	"objects": [
+    {
+      "id_anggota": 3,
+      "pelajaran": "Sistem Informasi",
+      "nilai": 90,
+      "status": true
+    },
+    {
+      "id_anggota": 3,
+      "pelajaran": "React",
+      "nilai": 55,
+      "status": false
+    }
+  ]
+}
